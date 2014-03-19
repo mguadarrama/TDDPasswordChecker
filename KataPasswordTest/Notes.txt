@@ -1,0 +1,5 @@
+﻿Validate password
+mínimo 6 char
+mínimo 1 mayuscula
+mínimo 1 minuscula
+mínimo 1 un - (guión)
